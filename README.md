@@ -1,2 +1,11 @@
 # Prediction-of-Product-Sales
-Predicts costs of items sold at stores
+Anjali Prakash
+## Project Overview
+
+## Load and Inspect Data
+
+## Clean Data
+
+## Exploratory Data Analysis
+
+## Explanatory Data Analysis
