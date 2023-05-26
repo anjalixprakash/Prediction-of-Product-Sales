@@ -2,9 +2,7 @@
 Anjali Prakash
 
 ## Project Overview
-```python
 
-```
 
 ## Load and Inspect Data
 ```python
